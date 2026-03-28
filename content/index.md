@@ -7,7 +7,7 @@ This is a living collection of ideas, questions, and reflections—designed not 
 
 ---
 
-## 🧠 Start Here
+## 🧠 Start Here 
 
 - [[psychology]]
 - [[philosophy]]
